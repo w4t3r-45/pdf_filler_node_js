@@ -13,7 +13,7 @@ app.set('views','views');
 
 
 
-// our pdf file 
+// our pdf form
 
 var pdf_form = path.join(__dirname,'./files/test_form.pdf');
 
